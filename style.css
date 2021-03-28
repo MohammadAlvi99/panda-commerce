@@ -1,0 +1,13 @@
+.categories img {
+    width: 100px;
+}
+
+.card-border {
+    border: 0;
+    background-color: white;
+}
+
+.c-b-r {
+    background-color: #feeae9;
+    border-radius: 10px;
+}
